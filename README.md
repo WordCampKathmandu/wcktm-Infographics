@@ -1,5 +1,7 @@
 # WordCamp Kathmandu
 
+List of speakers of WordCamp Nepal and WordCamp Kathmandu and their presentations & workshop titles, number of attendee registered for the event in xlsx and CSV format.
+
 # At a glance
 ![](WordCamp%20Kathmandu%20Infographics.png)
 

@@ -1,5 +1,8 @@
 # WordCamp Kathmandu
 
+# At a glance
+![](WordCamp%20Kathmandu%20Infographics.png)
+
 ## Statistics
 ![](WordCamp%20Attendee%20Chart.png)
 ----
